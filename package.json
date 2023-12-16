@@ -1,0 +1,16 @@
+{
+  "name": "mirflet-npmjs",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MirFlet/mirflet-npmjs.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["jw", "mirflet"],
+  "author": "",
+  "license": "MIT"
+}
